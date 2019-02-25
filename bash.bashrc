@@ -42,4 +42,4 @@ alias mv='mv -i'
 alias cp='cp -ip'
 
 # Show on sensehat that someone logged in
-/usr/bin/han-ese-ops login &
+/usr/bin/han-ese-ops_login &
